@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+structlog
+boto3
+awscli-local

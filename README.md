@@ -1,2 +1,1 @@
-# streaming_pipeline
-Displays skills of building pipelines!
+# Overbuilt pipeline of pure shenanigans
